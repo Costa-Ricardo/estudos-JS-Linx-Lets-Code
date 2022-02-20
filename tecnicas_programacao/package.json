@@ -1,0 +1,22 @@
+{
+  "name": "aula",
+  "version": "0.0.1",
+  "description": "Primeiro pacote node.js",
+  "main": "indexAula1.js",
+  
+  "scripts":{
+    "start": "node indexAula1.js",
+    "lint": "eslint ./testeEsLint.js"
+  },
+  "author": "Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "figlet": "^1.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}

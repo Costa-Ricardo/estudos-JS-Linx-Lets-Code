@@ -1,0 +1,71 @@
+Repositório do Github que vamos usar para as aulas:
+https://github.com/menezee/818-linx
+
+Exemplo de implementação da parte extra do exercício:
+https://replit.com/@erichh2/CultivatedBeautifulMention
+
+Documentação oficial de introdução ao Node.js: 
+https://nodejs.dev/learn/introduction-to-nodejs
+
+Vídeo complementar de introdução feito pelo Branas: 
+https://youtu.be/nfrVPzDJZQc
+
+Pesquisa do Stackoverflow sobre uso de tecnologia:
+https://insights.stackoverflow.com/survey/2021
+
+Vídeo explicando sobre o Event Loop e como o Node.js lida com tarefas assíncronas (tem legendas em português):
+ https://youtu.be/8aGhZQkoFbQ
+
+Curso do Guanabara sobre Git e Github (aula que vem pretendo fazer uma introdução): https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+
+NVM (não é obrigatório, mas caso tenham ficado curiosos, aqui tem tutorial de instação e uso):
+ Windows - https://youtu.be/rDtd1hWLOZo
+Outros sistemas (Waldemar Neto) - https://youtu.be/Q97HZgnICL0
+
+Algumas coisas que falamos na aula que podem ter ficado algumas dúvidas:
+Template literals (`aquela sintaxe ${assim}`)
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+Documentação oficial sobre o process.argv
+ https://nodejs.org/docs/latest/api/process.html#processargv
+
+Documentação não tão oficial sobre o process.argv:
+ https://qastack.com.br/programming/4351521/how-do-i-pass-command-line-arguments-to-a-node-js-program
+
+ Documentação sobre o método slice de array: 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+Documentação sobre destructuring, e.g. const [first] = [1, 2, 3] -> first === 1 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+------------------------------------------------------------------------------------------------
+NVM > https://github.com/nvm-sh/nvm 
+NODE > https://github.com/menezee/818-linx
+NODE DOWNLOAD MANUAL > https://nodejs.org/en/download/
+NPM > https://docs.npmjs.com/try-the-latest-stable-version-of-npm
+ASC ARTS > https://www.npmjs.com/package/ascii-art
+
+subir para o git > 
+criar o .gitgnore para o node_modules e enviar tudo q foi criado hj nos scripts e o pakcage.json
+e enviar o link para o professor.
+
+https://github.com/menezee/818-linx/tree/main/src/intro-10-02-2022
+Carolina Pericole22:03
+https://github.com/carolpericole/BoraSerTech/tree/main/NodeJS
+
+Aula 2
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+ESLINT > https://eslint.org/docs/user-guide/getting-started 
+ESLINT q não funciona > https://stackoverflow.com/a/46999435/6916835
+ESLINT RULES > https://eslint.org/docs/user-guide/configuring/rules
+"rules": {
+        "eqeqeq": "off",
+        "curly": "error",
+        "quotes": ["error", "double"]
+    }
+ 'indent': ['error', 'tab'],
+
+ Aula 3
+ EVENT LOOP > https://www.youtube.com/watch?v=8aGhZQkoFbQ
+ PROGRAMAÇAO PARALELA > https://www.jsv9000.app/
+ DOCUMENTAÇÃO OFICIAL NODE > https://nodejs.org/docs/latest-v16.x/api/

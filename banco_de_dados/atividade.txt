@@ -1,0 +1,24 @@
+##Atividades
+
+*Faturamento total dos pedidos de manutenção
+*Média do preço de manutenção
+*Faturamento total dos pedidos de compras
+*Média dos preço de compras
+*Valor máx e min de pedido de manutenção
+*Valor máx e min de pedido de compras
+
+*Listagem e quantidade de clientes que possuem o DDD 96
+*Clientes que possuem telefone que termina com o número 3
+
+*Listagem de tecnicos que não possuem CNH
+*Listagem de tecnicos que possuem CNH
+
+*Quantidade de atendimentos online realizado no mês 03
+
+*Listar clientes que realizaram uma solicitação de manutenção
+*Listar clientes que nunca realizaram uma solicitação de manutenção
+
+*Listar clientes que realizaram um pedido de compra
+*Listar clientes que nunca realizaram um pedido de compra
+
+*Listar atendentes que já realizaram atendimento online a um cliente em novembro

@@ -1,0 +1,16 @@
+https://pt.stackoverflow.com/a/151394
+
+Forma Normativa 
+
+
+https://www.w3schools.com/sql/default.asp
+
+https://docs.microsoft.com/pt-br/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver15
+
+ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. São Paulo: Pearson Addison Wesley, 2011;
+
+HEUSER, Carlos Alberto. Projeto de banco de dados. 5. ed. Porto Alegre: Sagra Luzzatto, 2004.
+
+rutyelle.santos@hotmail.com (Professor de banco de dados)
+
+https://1drv.ms/x/s!AhVFKJjYCNhdgdwtfY8Sv7aWiXDKXg?e=8fYjfE
