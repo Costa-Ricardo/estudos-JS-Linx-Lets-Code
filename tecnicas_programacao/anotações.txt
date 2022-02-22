@@ -69,3 +69,8 @@ ESLINT RULES > https://eslint.org/docs/user-guide/configuring/rules
  EVENT LOOP > https://www.youtube.com/watch?v=8aGhZQkoFbQ
  PROGRAMAÇAO PARALELA > https://www.jsv9000.app/
  DOCUMENTAÇÃO OFICIAL NODE > https://nodejs.org/docs/latest-v16.x/api/
+
+ Aula 4
+
+ Apresentação ASYNC/AWAIT
+ https://github.com/menezee/818-linx/blob/main/classes/async.mdx
