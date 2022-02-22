@@ -1,0 +1,1 @@
+Texto presente no arquivo file3.txt
