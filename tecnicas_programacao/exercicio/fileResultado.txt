@@ -1,1 +1,3 @@
 Texto presente no arquivo file.txt
+Texto presente no arquivo file2.txt
+Texto presente no arquivo file3.txt
