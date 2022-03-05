@@ -4,38 +4,38 @@ https://github.com/menezee/818-linx
 Exemplo de implementação da parte extra do exercício:
 https://replit.com/@erichh2/CultivatedBeautifulMention
 
-Documentação oficial de introdução ao Node.js: 
+Documentação oficial de introdução ao Node.js:
 https://nodejs.dev/learn/introduction-to-nodejs
 
-Vídeo complementar de introdução feito pelo Branas: 
+Vídeo complementar de introdução feito pelo Branas:
 https://youtu.be/nfrVPzDJZQc
 
 Pesquisa do Stackoverflow sobre uso de tecnologia:
 https://insights.stackoverflow.com/survey/2021
 
 Vídeo explicando sobre o Event Loop e como o Node.js lida com tarefas assíncronas (tem legendas em português):
- https://youtu.be/8aGhZQkoFbQ
+https://youtu.be/8aGhZQkoFbQ
 
-Curso do Guanabara sobre Git e Github (aula que vem pretendo fazer uma introdução): https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+Curso do Guanabara sobre Git e Github (aula que vem pretendo fazer uma introdução):https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 
 NVM (não é obrigatório, mas caso tenham ficado curiosos, aqui tem tutorial de instação e uso):
- Windows - https://youtu.be/rDtd1hWLOZo
+Windows - https://youtu.be/rDtd1hWLOZo
 Outros sistemas (Waldemar Neto) - https://youtu.be/Q97HZgnICL0
 
 Algumas coisas que falamos na aula que podem ter ficado algumas dúvidas:
 Template literals (`aquela sintaxe ${assim}`)
- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
 Documentação oficial sobre o process.argv
- https://nodejs.org/docs/latest/api/process.html#processargv
+https://nodejs.org/docs/latest/api/process.html#processargv
 
 Documentação não tão oficial sobre o process.argv:
- https://qastack.com.br/programming/4351521/how-do-i-pass-command-line-arguments-to-a-node-js-program
+https://qastack.com.br/programming/4351521/how-do-i-pass-command-line-arguments-to-a-node-js-program
 
- Documentação sobre o método slice de array: 
+ Documentação sobre o método slice de array:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 
-Documentação sobre destructuring, e.g. const [first] = [1, 2, 3] -> first === 1 
+Documentação sobre destructuring, e.g. const [first] = [1, 2, 3] -> first === 1
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 
 ------------------------------------------------------------------------------------------------
@@ -74,3 +74,14 @@ ESLINT RULES > https://eslint.org/docs/user-guide/configuring/rules
 
  Apresentação ASYNC/AWAIT
  https://github.com/menezee/818-linx/blob/main/classes/async.mdx
+
+ exemplos de PROMISES
+ https://replit.com/@erichh2/GrouchyIntrepidField#index.js
+
+ DNS POST
+ https://github.com/menezee/818-linx/blob/main/src/network-24-02-2022/routes/beer-router.js#L26
+ https://github.com/menezee/818-linx/blob/ab4cd2c758c1bb3ea129241b3a83737e0901a51f/src/network-24-02-2022/helpers.js#L53
+ https://github.com/menezee/818-linx/blob/main/classes/network-pt2.mdx
+
+ NPM DE AUDIO
+ npm install node-gtts

@@ -42,3 +42,65 @@ randomNumberAsync()
     .catch((err) => {
         console.info(`[then/cacth] catch: ${err}`);
     });
+/* 
+- Criar um array de Promises chamando essa função 3x e resolver usando Promise.all e Promise.allSettled
+ */
+
+const listOfPromises = [
+    randomNumberAsync(),
+    randomNumberAsync(),
+    randomNumberAsync(),
+];
+
+/* Promise
+    .allSettled(listOfPromises)
+    .then(result => {
+        result
+            .filter(r => r.status === 'fulfilled')
+            .forEach(r => console.log(`value: ${value}`));
+    })
+    .catch(err => {
+        console.log(`err: ${err}`);
+    });
+
+Promise
+    .all(listOfPromises)
+    .then(result => {
+        console.log(`result: ${result}`);
+    })
+    .catch(err => {
+        console.log(`err: ${err}`);
+    });
+
+Promise
+    .any(listOfPromises)
+    .then(result => {
+        console.log(`primeira promise resolvida`, result);
+    })
+    .catch(err => {
+        console.log(`err: ${err}`);
+    });
+   */  
+for(i = 0; i < 3; i++){
+    Promise
+    .all(listOfPromises)
+    .then(result => {
+        console.log(`result: ${result} dentro do for ${i}`);
+    })
+    .catch(err => {
+        console.log(`err: ${err} dentro do for ${i}`);
+    });
+}  
+
+for(i = 0; i < 3; i++){3j
+    Promise
+    .allSettled(listOfPromises)
+    .then(result => {
+        result
+            .filter(r => r.status === 'fulfilled')
+            .forEach(r => console.log(`value: ${value}`));
+    })
+    .catch(err => {
+        console.log(`err: ${err}`);
+    });
+}
