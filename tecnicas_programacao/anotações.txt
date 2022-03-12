@@ -85,3 +85,54 @@ ESLINT RULES > https://eslint.org/docs/user-guide/configuring/rules
 
  NPM DE AUDIO
  npm install node-gtts
+
+REQUEST HTTP
+ https://nodejs.dev/learn/making-http-requests-with-nodejs
+ https://github.com/menezee/818-linx/commit/dab9b7ccc1090e03ef98392da6402ea87b1e980a
+
+ NODEMOM
+ https://www.npmjs.com/package/nodemon
+
+ DOTENV
+ npm install dotenv --save
+ npm i dotenv 
+ https://github.com/menezee/818-linx/blob/main/classes/extra.mdx
+ https://docs.oracle.com/en/database/oracle/machine-learning/oml4r/1.5.1/oread/creating-and-modifying-environment-variables-on-windows.html#GUID-DD6F9982-60D5-48F6-8270-A27EC53807D0
+
+ https://superuser.com/a/341193
+echo %SOBRENOME%
+echo %PATH%
+
+LUXON
+npm i luxon
+https://moment.github.io/luxon/#/tour
+https://github.com/menezee/818-linx/blob/main/classes/extra.mdx
+
+CRYPTO
+npm i aes256
+https://www.npmjs.com/package/aes256
+
+SLSNLsMKtcBRhq2Ppyu4TYDxtVk2nZ4hQq7CMsRFbMamJQSGK4NBwA==
+Bora Node.js
+https://github.com/menezee/818-linx/blob/main/classes/extra.mdx#crypto-1
+https://github.com/menezee/818-linx/blob/main/classes/all-the-nice-things.mdx
+
+EXPRESS
+npm i express
+npm i body-parser
+npm i -D nodemon
+npm set-script dev "nodemon index.js"
+npm run dev
+Let's Code19:56
+https://github.com/menezee/818-linx/blob/main/classes/all-the-nice-things.mdx#e-para-ler-o-body-no-post
+
+https://github.com/menezee/818-linx/commit/eccab5d5f1755eb80349c1f3b48d6d879924943c
+
+🚀Curso de Node.js completo com Typescript, Jest, TDD, Github... [Código atualizado 2022]
+
+https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh
+
+https://expressjs.com/pt-br/starter/hello-world.html
+
+AXIOS
+npm i axios 

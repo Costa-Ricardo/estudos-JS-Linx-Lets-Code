@@ -22,7 +22,7 @@ server.on('request', (req, res) => {
 
     //Verifica se o metodo é um GET ou POST e retorna um CONTENT-TYPE um "JSON" mas na vdd é uma String 
     if(method === 'GET' && url ==='/'){
-        res.statusCode = 200;
+        res.statusCode = 201;
         res.setHeader('Content-Type', 'text/html');
         res.end("<h1>escola: Lets Code \n ano:2022</h1>");
     } else if (method === 'POST' && url ==='/'){
