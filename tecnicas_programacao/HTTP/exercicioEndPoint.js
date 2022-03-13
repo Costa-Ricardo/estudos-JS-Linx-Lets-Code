@@ -1,9 +1,9 @@
 /**
  *  Criar 3 endpoints  (e.g. /foo, /baz, /bar) e retornar 3 tipos diferentes de dados
- * 
- *  Pesquisar e tratar outros tipos de http method
- * 
- *  Usar o módulo de filesystem 
+ *  Pesquisar e tratar outros tipos de http method (GET, PUT, POST, DELETE)
+ *  Criar 3 arquivos .txt com o conteúdo dentro
+ *  Criar 1 endpoint com um deles retornando htmal e renderizando o conteúdo dentro de um lista
+ *  Criar 1 endpoint retornando o conteúdo dentro de um json
  */
 
 const http = require('http');
